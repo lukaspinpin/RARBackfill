@@ -13,4 +13,4 @@ Before you run the simulation code, ensure you have R installed on your computer
 ## Credits 
 
 This code has been devoloped by Hakim Dehbi (Comprehensive Clinical Trials Unit at University College London, London, UK) and Lukas Pin (MRC Biostatistics Unit at University of Cambridge, Cambridge, UK).
-Contacct: lukas.pin@mrc-bsu.cam.ac.uk
+Contact: lukas.pin@mrc-bsu.cam.ac.uk

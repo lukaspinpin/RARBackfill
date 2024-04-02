@@ -1,3 +1,10 @@
+###############################################################################
+# This code is written by Hakim Dehbi (UCL) and 
+# Lukas Pin (University of Cambridge)
+# Cite: https://github.com/lukaspinpin/RARBackfill.git
+# Please Contact us if you think you have spotted any mistakes.
+# Contact: lukas.pin@mrc-bsu.cam.ac.uk
+###############################################################################
 ##### packages
 library(bcrm)
 library(dfcrm)

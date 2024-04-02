@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Pin
+    given-names: Lukas
+title: "Code for Implementing and assessing Bayesian response-adaptive randomisation for backfilling in dose-finding trials"
+url: https://github.com/lukaspinpin/RARBackfill.git
+version: 1.0.0
+date-released: 2024-04-02
